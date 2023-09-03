@@ -17,6 +17,46 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
+figcaption p + p{
+	text-indent: 0;
+}
+
+figure.full-page{
+	break-after: page;
+	break-before: page;
+	margin: 0;
+	max-height: 100vh;
+	text-align: center;
+}
+
+@supports(display: flex){
+	figure.full-page{
+		display: flex;
+		flex-direction: column;
+	}
+
+	figure.full-page img{
+		height: 100vh;
+		object-fit: contain;
+	}
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
@@ -48,4 +88,10 @@ blockquote[xml|lang]{
 
 #chapter-10 > blockquote > p{
 	text-align: center;
+}
+
+#chapter-15 figcaption{
+	text-align: initial;
+	font-style: normal;
+	columns: 2;
 }
