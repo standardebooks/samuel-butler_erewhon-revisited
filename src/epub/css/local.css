@@ -82,10 +82,6 @@ figure.full-page{
 	display: none;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 #chapter-10 > blockquote > p{
 	text-align: center;
 }
