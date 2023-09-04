@@ -91,7 +91,7 @@ figure.full-page{
 }
 
 #chapter-15 figcaption{
-	text-align: initial;
-	font-style: normal;
 	columns: 2;
+	font-style: normal;
+	text-align: initial;
 }
