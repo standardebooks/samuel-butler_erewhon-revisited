@@ -93,7 +93,6 @@ figure.full-page{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -135,10 +134,6 @@ section[epub|type~="epigraph"] > *{
 
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
-	}
-
-	section[epub|type~="epigraph"] > * + *{
-		margin-top: 3em;
 	}
 }
 /* End full-page epigraphs */
