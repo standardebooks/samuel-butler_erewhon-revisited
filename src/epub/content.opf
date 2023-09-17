@@ -50,14 +50,14 @@
 		<meta id="collection-1" property="belongs-to-collection">Erewhon</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A traveller returns to the country of Erewhon to find out what has happened in the twenty years since he last visited.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Higgs has made his fortune with sales of his original travelogue &lt;a href="https://standardebooks.org/ebooks/samuel-butler/erewhon"&gt;&lt;i&gt;Erewhon&lt;/i&gt;&lt;/a&gt;. When his wife dies, his long desire to return to the country overwhelms him, and even his friends agree that a change of scenery would be a good idea. He arrives back home to English unexpectedly early and deeply unwell, and so it’s down to his son John to piece together what happened during his fleeting visit.&lt;/p&gt;
+			&lt;p&gt;Written nearly thirty years after the first book, &lt;i&gt;Erewhon Revisited&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/samuel-butler"&gt;Samuel Butler’s&lt;/a&gt; attempt to reason about the ongoing effect Higgs’ first visit–and dramatic exit–would have had on the closed society of Erewhon. The playful satire of the first book remains, but this time is focused on a new target: religion. This gained it no favours among the establishment of the day, but after changing publishers to &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; imprint it was finally published in 1901. While never as critically or commercially successful as the first, it remains a fascinating read.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1971</dc:source>
 		<dc:source>https://archive.org/details/erewhonrevisite01butl</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Erewhon_Revisited</meta>
