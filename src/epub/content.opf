@@ -59,7 +59,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1971</dc:source>
 		<dc:source>https://archive.org/details/erewhonrevisite01butl</dc:source>
 		<meta property="se:word-count">85877</meta>
-		<meta property="se:reading-ease.flesch">72.9</meta>
+		<meta property="se:reading-ease.flesch">73.1</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Erewhon_Revisited</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/samuel-butler_erewhon-revisited</meta>
 		<dc:creator id="author">Samuel Butler</dc:creator>
